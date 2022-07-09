@@ -1,7 +1,8 @@
 {
 	"name": "@andjsrk/stateless-iterator",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"main": "dist",
+	"keywords": [ "stateless", "iterator" ],
 	"repository": "github:andjsrk/stateless-iterator",
 	"devDependencies": {
 		"typescript": "^4.7.4"

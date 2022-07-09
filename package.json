@@ -2,6 +2,7 @@
 	"name": "@andjsrk/stateless-iterator",
 	"version": "1.0.0",
 	"main": "dist",
+	"repository": "github:andjsrk/stateless-iterator",
 	"devDependencies": {
 		"typescript": "^4.7.4"
 	}

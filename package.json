@@ -1,0 +1,7 @@
+{
+	"name": "@andjsrk/stateless-iterator",
+	"main": "dist",
+	"devDependencies": {
+		"typescript": "^4.7.4"
+	}
+}
